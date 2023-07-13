@@ -37,7 +37,7 @@ Each theme folder contains previews/screenshots of the theme and theme files in 
 
 **Firefox Add-ons Link**: https://addons.mozilla.org/en-US/firefox/addon/darple
 
-**Screenshot**: ![Darple](preview_Darple.svg)
+**Screenshot**: ![Darple](Darple/preview_Darple.svg)
 
 
 ## Contributing
