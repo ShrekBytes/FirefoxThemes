@@ -23,11 +23,6 @@ The repository is structured as follows:
 │   ├── Theme_B.xpi
 │   ├── Theme_B.zip
 │   └── ...
-├── Theme C
-│   ├── preview.png
-│   ├── Theme_C.xpi
-│   ├── Theme_C.zip
-│   └── ...
 ├── ...
 ├── README.md
 └── logo.png
