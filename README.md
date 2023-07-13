@@ -14,12 +14,12 @@ The repository is structured as follows:
 
 ```
 ├── Theme A
-│   ├── preview.png
+│   ├── preview_A.png
 │   ├── Theme_A.xpi
 │   ├── Theme_A.zip
 │   └── ...
 ├── Theme B
-│   ├── preview.png
+│   ├── preview_B.png
 │   ├── Theme_B.xpi
 │   ├── Theme_B.zip
 │   └── ...
