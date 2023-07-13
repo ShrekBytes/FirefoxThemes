@@ -35,18 +35,10 @@ Each theme folder contains previews/screenshots of the theme and theme files in 
 ## Theme 1
 
 ### Theme Name: Name of the theme  
-**Description**: Brief description of the theme  
-**Firefox Add-ons Link**: [Darple on Firefox](https://addons.mozilla.org/en-US/firefox/addon/darple)
+**Description**: Dracula color scheme with Dark Purple accent.
+**Firefox Add-ons Link**: https://addons.mozilla.org/en-US/firefox/addon/darple
 **Screenshot**: ![Screenshot of the theme](screenshot.png)
 
-## Theme 2
-
-### Theme Name: Name of the theme  
-**Description**: Brief description of the theme  
-**Firefox Add-ons Link**: [Link to the theme on Firefox Add-ons](URL)
-**Screenshot**: ![Screenshot of the theme](screenshot.png)
-
-###
 
 ## Contributing
 
