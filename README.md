@@ -8,6 +8,34 @@ A collection of Firefox themes specifically designed to match and complement des
 - [Contributing](#contributing)
 - [License](#license)
 
+## Folder Structure
+
+The repository is structured as follows:
+
+```
+├── Theme A
+│   ├── preview.png
+│   ├── Theme_A.xpi
+│   ├── Theme_A.zip
+│   └── ...
+├── Theme B
+│   ├── preview.png
+│   ├── Theme_B.xpi
+│   ├── Theme_B.zip
+│   └── ...
+├── Theme C
+│   ├── preview.png
+│   ├── Theme_C.xpi
+│   ├── Theme_C.zip
+│   └── ...
+├── ...
+├── README.md
+└── logo.png
+```
+
+Each theme folder contains previews/screenshots of the theme and theme files in both formats - `xpi` and `zip`.
+
+
 ## Theme 1
 
 ### Theme Name: Name of the theme  
