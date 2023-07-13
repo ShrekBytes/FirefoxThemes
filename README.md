@@ -5,8 +5,7 @@ This repository is a collection of Firefox themes specifically designed to match
 ## Table of Contents
 
 - [Folder Structure](#folder-structure)
-- [Theme 1](#theme-1)
-- [Theme 2](#theme-2)
+- [Theme 1 - Darple](#darple)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -32,11 +31,12 @@ The repository is structured as follows:
 
 Each theme folder contains previews/screenshots of the theme and theme files in both formats - `xpi` and `zip`.
 
-## Theme 1
+## Darple
 
-### Theme Name: Name of the theme  
 **Description**: Dracula color scheme with Dark Purple accent.
+
 **Firefox Add-ons Link**: https://addons.mozilla.org/en-US/firefox/addon/darple
+
 **Screenshot**: ![Screenshot of the theme](screenshot.png)
 
 
