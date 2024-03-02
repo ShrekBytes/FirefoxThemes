@@ -39,6 +39,7 @@ Each theme folder contains previews/screenshots of the theme and theme files in 
 
 <img src="Darple/preview_Darple.svg" alt="Darple">
 <img src="Darple/preview.png" alt="Darple full">
+<img src="Darple/preview2.png" alt="Darple full">
 
 
 ## Contributing
